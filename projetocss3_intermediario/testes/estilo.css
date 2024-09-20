@@ -1,0 +1,77 @@
+/* modelo caixa*/
+/* pro modelo caixa
+.conteudo{
+    border: 1px red solid;
+    /*padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+
+    padding: 20px;
+
+    margin: 20px;
+
+    width: 150px;
+}
+
+#noticia{
+    background: #f9f9f9;
+    border: 1px solid gray;
+    padding: 10px;
+}*/
+
+/* Elemntos flutuantes aula teste
+.conteudo{
+    background: blue;
+    border: 1px solid gray;
+    width: 250px;
+    height: 250px;
+    float: left;
+    margin: 10px;
+}
+
+.conteudo1{
+    background: red;
+    border: 1px solid gray;
+    width: 150px;
+    height: 150px;
+    float: right;
+}
+
+.clear{
+    clear: left;
+}
+
+#principal{
+    border: 5px solid red;
+    background: green;
+}
+*/
+
+/*Elementos flutuantes aula prática*/
+
+#principal{
+    width: 920px;
+}
+.noticia{
+    background: #e5e5e5;
+    padding: 5px;
+    width: 280px;
+    margin: 7px;
+    float: left;
+}
+
+.clear{
+    clear: both;
+}
+
+.imagem_galeria{
+    background: white;
+    width: 265px;
+    padding: 5px;
+    float: left;
+}
+
+body{
+    background: #f4f4f4;
+}
