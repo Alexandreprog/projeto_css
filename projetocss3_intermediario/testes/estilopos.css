@@ -1,0 +1,43 @@
+#container{
+    background: #FFF;
+    width: 800px;
+    margin: 10px auto;
+    padding: 10px;
+    position: relative;
+}
+
+body{
+    background: #007fc7;
+}
+
+h1{
+    position: static;
+}
+
+p{
+    width: 300px;
+}
+
+.relative{
+    border: 1px solid red;
+    position: relative;
+    /*top, right, bottom e left*/
+    top: 0px;
+    left: 0px;
+}
+.absolute{
+    position: absolute;
+    top: 80px;
+    right: 20px;
+    border: 1px solid red;
+    background: #f2f2f2;
+}
+
+.fixed{
+    border: 1px solid red;
+    background: #f2f2f2;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+
+}
